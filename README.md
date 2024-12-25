@@ -1,4 +1,4 @@
-# Option 2: Multimodal Data Preprocessing Library
+# Multimodal Data Preprocessing Library
 
 ## Overview
 The **Multimodal Data Preprocessing Library** simplifies the preprocessing of multimodal datasets (text, audio, and video) for machine learning and deep learning tasks. It provides modular and efficient tools to streamline the pipeline for researchers and practitioners.
